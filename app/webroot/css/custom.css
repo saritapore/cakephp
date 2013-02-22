@@ -1,0 +1,28 @@
+#content {
+    height: 650px;
+    /*background: url("/img/Chrysanthemum.jpg")no-repeat;*/
+
+}
+.form-horizontal {
+    width: 600px;
+    margin: 0 auto;
+}
+
+
+.footer {
+    background: #2c2c2c;
+    height: 40px;
+}
+.footer ul li {
+    float: left;
+     margin-right: 20px;
+    line-height: 40px;
+    padding-left: 20px;
+
+}
+.footer ul li a {
+    color: #dddddd;
+}
+.hero-unit {
+    background: none;
+}
