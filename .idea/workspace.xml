@@ -22,19 +22,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/webroot/css/custom.css">
+      <file leaf-file-name="ContactsController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/ContactsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
+            <state line="33" column="29" selection-start="1034" selection-end="1034" vertical-scroll-proportion="-9.807693">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContactsController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Controller/ContactsController.php">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/webroot/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="3" selection-start="1009" selection-end="1009" vertical-scroll-proportion="-9.153846">
+            <state line="34" column="31" selection-start="1084" selection-end="1084" vertical-scroll-proportion="20.807692">
               <folding />
             </state>
           </provider>
@@ -43,37 +43,28 @@
       <file leaf-file-name="PagesController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="53" selection-start="1775" selection-end="1775" vertical-scroll-proportion="-22.307692">
+            <state line="74" column="33" selection-start="1766" selection-end="1766" vertical-scroll-proportion="-32.115383">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.ctp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/View/Layouts/default.ctp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="72" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-11.192307">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add.ctp" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="add.ctp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/View/Contacts/add.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="30" selection-start="1598" selection-end="1598" vertical-scroll-proportion="-16.423077">
+            <state line="43" column="74" selection-start="1767" selection-end="1767" vertical-scroll-proportion="0.6165413">
               <folding>
-                <marker date="1361509519875" expanded="true" signature="1813:1897" placeholder="..." />
-                <marker date="1361509519875" expanded="true" signature="1853:1897" placeholder="..." />
+                <marker date="1361585846230" expanded="true" signature="1810:1888" placeholder="..." />
+                <marker date="1361585846230" expanded="true" signature="1850:1888" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.ctp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.ctp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/View/Pages/home.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="32" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.6257669">
+            <state line="24" column="68" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,7 +73,7 @@
       <file leaf-file-name="header.ctp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/View/Elements/header.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="41" selection-start="163" selection-end="163" vertical-scroll-proportion="-3.2692308">
+            <state line="8" column="92" selection-start="134" selection-end="449" vertical-scroll-proportion="-5.230769">
               <folding />
             </state>
           </provider>
@@ -91,7 +82,25 @@
       <file leaf-file-name="footer.ctp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/View/Elements/footer.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="35" selection-start="215" selection-end="215" vertical-scroll-proportion="-3.2692308">
+            <state line="7" column="51" selection-start="394" selection-end="394" vertical-scroll-proportion="-4.576923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlsController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/HtmlsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="19" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-13.076923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/View/Htmls/home.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="63" selection-start="1178" selection-end="1178" vertical-scroll-proportion="-9.807693">
               <folding />
             </state>
           </provider>
@@ -107,20 +116,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/View/Layouts/home.ctp" />
-        <option value="$PROJECT_DIR$/app/Config/core.php" />
         <option value="$PROJECT_DIR$/app/Config/database.php.default" />
         <option value="$PROJECT_DIR$/app/Config/database.php" />
         <option value="$PROJECT_DIR$/app/webroot/css/cake.generic.css" />
         <option value="$PROJECT_DIR$/app/View/Layouts/default.ctp" />
-        <option value="$PROJECT_DIR$/app/View/Elements/footer.ctp" />
         <option value="$PROJECT_DIR$/app/webroot/css/custom.css" />
         <option value="$PROJECT_DIR$/app/Controller/ContactsController.php" />
         <option value="$PROJECT_DIR$/app/View/Pages/home.ctp" />
         <option value="$PROJECT_DIR$/app/View/Html/index.ctp" />
-        <option value="$PROJECT_DIR$/app/View/Contacts/add.ctp" />
         <option value="$PROJECT_DIR$/app/Controller/PagesController.php" />
+        <option value="$PROJECT_DIR$/app/View/Html/header.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Html/footer.ctp" />
+        <option value="$PROJECT_DIR$/app/Controller/HtmlController.php" />
+        <option value="$PROJECT_DIR$/app/Controller/HtmlsController.php" />
         <option value="$PROJECT_DIR$/app/View/Elements/header.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Elements/footer.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Contacts/add.ctp" />
       </list>
     </option>
   </component>
@@ -333,7 +344,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Html" />
+              <option name="myItemId" value="Layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Htmls" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,11 +401,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\php_projects\Assignment\app\Controller" />
+      <recent name="D:\php_projects\Assignment\app\View\Html" />
       <recent name="D:\php_projects\Assignment\app\webroot\img" />
       <recent name="D:\php_projects\Assignment\app\webroot\css" />
-      <recent name="D:\php_projects\Assignment\app\Controller" />
       <recent name="D:\php_projects\Assignment\app\Config" />
-      <recent name="D:\php_projects\Assignment\lib" />
     </key>
   </component>
   <component name="RunManager">
@@ -401,9 +438,8 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26705277" sideWeight="0.32681563" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26705277" sideWeight="0.6634078" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27477476" sideWeight="0.6634078" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -412,6 +448,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -472,113 +509,110 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Config/database.php.default">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="2679" selection-end="2679" vertical-scroll-proportion="0.9488722">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Config/core.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="188" column="75" selection-start="7156" selection-end="7156" vertical-scroll-proportion="0.253125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="37" selection-start="2098" selection-end="2098" vertical-scroll-proportion="0.18195489">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Config/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="48" selection-start="1092" selection-end="1092" vertical-scroll-proportion="0.17894737">
-          <folding />
-        </state>
+        <state line="27" column="48" selection-start="1092" selection-end="1092" vertical-scroll-proportion="0.17894737" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/View/Layouts/home.ctp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="55" selection-start="1153" selection-end="1193" vertical-scroll-proportion="0.49473685">
-          <folding>
-            <element signature="e#6#603#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/View/Elements/footer.ctp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="35" selection-start="215" selection-end="215" vertical-scroll-proportion="-3.2692308">
-          <folding />
-        </state>
+        <state line="41" column="55" selection-start="1153" selection-end="1193" vertical-scroll-proportion="0.49473685" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/webroot/css/cake.generic.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="53" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="66" column="53" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/webroot/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/View/Html/home.ctp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="26" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.6257669">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/View/Contacts/add.ctp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="30" selection-start="1598" selection-end="1598" vertical-scroll-proportion="-16.423077">
-          <folding>
-            <marker date="1361509519875" expanded="true" signature="1813:1897" placeholder="..." />
-            <marker date="1361509519875" expanded="true" signature="1853:1897" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Controller/ContactsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="3" selection-start="1009" selection-end="1009" vertical-scroll-proportion="-9.153846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="53" selection-start="1775" selection-end="1775" vertical-scroll-proportion="-22.307692">
-          <folding />
-        </state>
+        <state line="9" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/View/Layouts/default.ctp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="72" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-11.192307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/View/Elements/header.ctp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="41" selection-start="163" selection-end="163" vertical-scroll-proportion="-3.2692308">
+        <state line="40" column="72" selection-start="1099" selection-end="1099" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/View/Pages/home.ctp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="32" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.6257669">
+        <state line="24" column="68" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Htmls/footer.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="46" selection-start="221" selection-end="221" vertical-scroll-proportion="0.17894737">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="33" selection-start="1766" selection-end="1766" vertical-scroll-proportion="-32.115383">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/webroot/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="31" selection-start="1084" selection-end="1084" vertical-scroll-proportion="20.807692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/HtmlsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="19" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-13.076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Htmls/header.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="31" selection-start="368" selection-end="368" vertical-scroll-proportion="0.2635659">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Htmls/home.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="63" selection-start="1178" selection-end="1178" vertical-scroll-proportion="-9.807693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/ContactsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="29" selection-start="1034" selection-end="1034" vertical-scroll-proportion="-9.807693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/header.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="92" selection-start="134" selection-end="449" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/footer.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="51" selection-start="394" selection-end="394" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Contacts/add.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="74" selection-start="1767" selection-end="1767" vertical-scroll-proportion="0.6165413">
+          <folding>
+            <marker date="1361585846230" expanded="true" signature="1810:1888" placeholder="..." />
+            <marker date="1361585846230" expanded="true" signature="1850:1888" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

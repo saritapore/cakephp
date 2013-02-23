@@ -39,14 +39,14 @@
     <div class="control-group">
         <label class="control-label">Gender</label>
         <div class="controls">
-            <input type="radio" name="data[]" value="simple" checked="checked">Simple
-            <input type="radio" name="data[]"  value="complex">Complex
+            <input type="radio" name="data[]" value="simple" checked="checked">Male
+            <input type="radio" name="data[]"  value="complex">Female
         </div>
     </div>
 
     <div class="control-group">
         <div class="controls clearfix">
-            <?php echo $this->Form->submit('Sign Up', array('id' => 'signup', 'class' => 'btn btn-primary', 'div'=> false)); ?>
+            <?php echo $this->Form->end('Submit', array('id' => 'signup', 'class' => 'btn btn-primary', 'div'=> false)); ?>
         </div>
     </div>
 
